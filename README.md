@@ -17,7 +17,7 @@ cd gemini_multimodal_chatbot
 2. Install:
 
 ```bash
-bash int.sh
+bash init.sh
 ```
 3. Get your Google Studio API Key
 
